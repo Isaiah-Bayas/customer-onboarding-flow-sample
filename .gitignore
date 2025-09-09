@@ -123,8 +123,7 @@ dist
 .tern-port
 
 # All JSON files
-*.json
-
+*/serviceAccountKey.json
 #All HTTP files (For API testing - REST Client Extension)
 *.http
 
