@@ -122,6 +122,12 @@ dist
 # TernJS port file
 .tern-port
 
+# All JSON files
+*.json
+
+#All HTTP files (For API testing - REST Client Extension)
+*.http
+
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
